@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.StickHero",
+  "startScene": "b82e9b84-248e-400f-8d5b-bcb664ab14fd",
+  "title": "StickHero",
+  "webOrientation": "auto"
+}
