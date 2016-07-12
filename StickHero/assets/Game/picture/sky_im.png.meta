@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d00c682a-3314-40d4-8259-29c2d0a23d73",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "sky_im": {
+      "ver": "1.0.3",
+      "uuid": "b737ea17-ec4e-4ade-98f8-1a29eb9d7a43",
+      "rawTextureUuid": "d00c682a-3314-40d4-8259-29c2d0a23d73",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1711,
+      "height": 1492,
+      "rawWidth": 1711,
+      "rawHeight": 1492,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
